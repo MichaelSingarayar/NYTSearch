@@ -1,0 +1,18 @@
+.form-group{
+    margin: 0 20px 10px 20px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+button{
+    margin: 15px 0 15px 15px;
+}
+
+.jumbotron{
+    background-color: #00003f;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
